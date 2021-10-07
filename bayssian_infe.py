@@ -34,7 +34,7 @@ for _ in range(noclicks):
 	p = posterior(0,p)
 plt.plot(thetas, p)
 plt.xlabel('r$\ theta$')
-plt.ylabel('$p(\ theta)$')
+plt.ylabel('$p(\ theta)')
 plt.show()
 
 
